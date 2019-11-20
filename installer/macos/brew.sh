@@ -6,6 +6,7 @@ brew install node
 brew install python
 brew install rbenv
 brew install ruby
+brew install ruby-build
 brew install tmux
 brew install vim
 brew install wget
