@@ -3,6 +3,7 @@
 brew install fish
 brew install git
 brew install node
+brew install python
 brew install rbenv
 brew install ruby
 brew install tmux
