@@ -1,3 +1,3 @@
 #!bin/bash
 
-sh ./macos/brew.sh
+sh ~/dotfiles/installer/macos/brew.sh
