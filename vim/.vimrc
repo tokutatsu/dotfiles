@@ -13,6 +13,7 @@ set expandtab
 set number
 set ruler
 set cursorline
+set backspace=indent,eol,start
 
 inoremap { {}<LEFT>
 inoremap [ []<LEFT>
