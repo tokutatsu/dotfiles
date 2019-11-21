@@ -1,4 +1,4 @@
-call plug#begin('~/Downloads/vim/plugged') "ディレクトリは合わせる
+call plug#begin('~/.vim/plugged') "ディレクトリは合わせる
 Plug 'scrooloose/syntastic'
 Plug 'Shougo/neocomplcache.vim'
 Plug 'Shougo/neosnippet'
