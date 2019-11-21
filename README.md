@@ -2,8 +2,8 @@
 
 ## 構成
 ### エディタ
-- .vim
-- .vscode
+- vim
+- vscode
 
 ### Shell
 - fish
