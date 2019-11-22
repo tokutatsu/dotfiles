@@ -15,5 +15,6 @@
     "editor.formatOnPaste": true,
     "[ruby]": {
         "editor.tabSize": 2
-    }
+    },
+    "terminal.external.osxExec": "iTerm.app"
 }
