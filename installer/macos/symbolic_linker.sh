@@ -1,9 +1,13 @@
 #!/bin/bash
 
+rm ~/.bash_profile
+rm ~/.bashrc
 rm ~/.tmux.conf
 rm ~/.vimrc
 rm ~/Library/Application\ Support/Code/User/settings.json
 
+ln -s ~/dotfiles/bash/.bash_profile ~/.bash_profile
+ln -s ~/dotfiles/bash/.bashrc ~/.bashrc
 ln -s ~/dotfiles/tmux/.tmux.conf ~/.tmux.conf
 ln -s ~/dotfiles/vim/.vimrc ~/.vimrc
 ln -s ~/dotfiles/vscode/settings.json ~/Library/Application\ Support/Code/User/settings.json
