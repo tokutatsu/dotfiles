@@ -7,6 +7,7 @@
 
 ### Shell
 - fish
+- bash
 
 ### その他
 - tmux
