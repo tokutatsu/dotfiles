@@ -16,5 +16,17 @@
     "[ruby]": {
         "editor.tabSize": 2
     },
+    "[javascript]": {
+        "editor.tabSize": 4
+    },
+    "[json]": {
+        "editor.quickSuggestions": {
+            "strings": true
+        },
+        "editor.tabSize": 2
+    },
+    "[html]": {
+        "editor.tabSize": 2
+    },
     "terminal.external.osxExec": "iTerm.app"
 }
