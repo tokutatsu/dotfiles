@@ -1,4 +1,4 @@
-#!bin/bahs
+#!bin/bash
 
 brew install fish
 brew install git
