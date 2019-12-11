@@ -1,0 +1,1 @@
+/Users/tokutatsu/.fzf/shell/key-bindings.fish
