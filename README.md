@@ -11,3 +11,9 @@
 
 ### その他
 - tmux
+
+### fzfの導入
+```
+$ git clone https://github.com/junegunn/fzf.git ~/.fzf
+$ ./.fzf/install
+```
