@@ -28,5 +28,6 @@
     "[html]": {
         "editor.tabSize": 2
     },
-    "terminal.external.osxExec": "iTerm.app"
+    "terminal.external.osxExec": "iTerm.app",
+    "diffEditor.ignoreTrimWhitespace": false
 }

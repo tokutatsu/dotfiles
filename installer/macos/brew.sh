@@ -4,6 +4,7 @@ brew cask install adoptopenjdk
 
 brew install fish
 brew install git
+brew install go
 brew install graphviz
 brew install mysql
 brew install mysql-client
