@@ -16,6 +16,9 @@
     "[ruby]": {
         "editor.tabSize": 2
     },
+    "[python]": {
+        "editor.tabSize": 4
+    },
     "[javascript]": {
         "editor.tabSize": 4
     },
@@ -29,5 +32,7 @@
         "editor.tabSize": 2
     },
     "terminal.external.osxExec": "iTerm.app",
-    "diffEditor.ignoreTrimWhitespace": false
+    "diffEditor.ignoreTrimWhitespace": false,
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true
 }

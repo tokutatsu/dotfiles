@@ -11,6 +11,7 @@ brew install mysql-client
 brew install node
 brew install plantuml
 brew install postgresql
+brew install pipenv
 brew install python
 brew install rbenv
 brew install ruby
