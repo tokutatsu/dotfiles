@@ -34,5 +34,7 @@
     "terminal.external.osxExec": "iTerm.app",
     "diffEditor.ignoreTrimWhitespace": false,
     "python.linting.pylintEnabled": false,
-    "python.linting.flake8Enabled": true
+    "python.linting.flake8Enabled": true,
+    "go.formatTool": "goimports",
+    "go.useLanguageServer": true
 }
