@@ -12,6 +12,7 @@ brew install node
 brew install plantuml
 brew install postgresql
 brew install pipenv
+brew install pyenv
 brew install python
 brew install rbenv
 brew install ruby
