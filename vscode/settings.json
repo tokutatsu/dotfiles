@@ -13,6 +13,7 @@
     ],
     "editor.formatOnSave": true,
     "editor.formatOnPaste": true,
+    "editor.acceptSuggestionOnEnter": "off",
     "[ruby]": {
         "editor.tabSize": 2
     },
@@ -37,24 +38,5 @@
     "python.linting.flake8Enabled": true,
     "go.formatTool": "goimports",
     "go.useLanguageServer": true,
-    "latex-workshop.latex.recipes": [
-        {
-            "name": "compile",
-            "tools": [
-                "ptex2pdf"
-            ]
-        }
-    ],
-    "latex-workshop.latex.tools": [
-        {
-            "name": "ptex2pdf",
-            "command": "texc",
-            "args": [
-                "%DOCFILE_EXT%"
-            ]
-        }
-    ],
-    "latex-workshop.latex.autoBuild.run": "onFileChange",
-    "latex-workshop.docker.enabled": true,
-    "latex-workshop.view.pdf.viewer": "tab"
+    "go.toolsManagement.autoUpdate": true
 }

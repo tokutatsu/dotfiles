@@ -9,6 +9,7 @@ brew install graphviz
 brew install mysql
 brew install mysql-client
 brew install node
+brew install nodenv
 brew install plantuml
 brew install postgresql
 brew install pipenv
