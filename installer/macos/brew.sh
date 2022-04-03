@@ -1,6 +1,6 @@
 #!bin/bash
 
-brew cask install adoptopenjdk
+brew install --cask adoptopenjdk
 
 brew install fish
 brew install git
@@ -18,6 +18,7 @@ brew install python
 brew install rbenv
 brew install ruby
 brew install ruby-build
+brew install tig
 brew install tmux
 brew install vim
 brew install wget

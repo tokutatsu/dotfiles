@@ -1,5 +1,4 @@
 {
-    "window.zoomLevel": 0,
     "vim.insertModeKeyBindings": [
         {
             "before": [
@@ -21,7 +20,7 @@
         "editor.tabSize": 4
     },
     "[javascript]": {
-        "editor.tabSize": 4
+        "editor.tabSize": 2
     },
     "[json]": {
         "editor.quickSuggestions": {
