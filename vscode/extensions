@@ -1,6 +1,7 @@
 CraigMaslowski.erb
 DougFinke.vscode-pandoc
 golang.go
+googlecloudtools.cloudcode
 jebbs.plantuml
 MS-CEINTL.vscode-language-pack-ja
 ms-python.python
@@ -10,6 +11,7 @@ ms-toolsai.jupyter-keymap
 ms-toolsai.jupyter-renderers
 rebornix.ruby
 sianglim.slim
+skyapps.fish-vscode
 vscodevim.vim
 wingrunr21.vscode-ruby
 yzane.markdown-pdf
