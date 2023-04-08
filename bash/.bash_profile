@@ -2,9 +2,9 @@
 export PATH="$HOME/.rbenv/bin:$PATH"
 eval "$(rbenv init -)"
 
-# golang
-export GOPATH=$HOME/go
-export PATH=$PATH:$GOPATH/bin
+# goenv
+export PATH="$HOME/.goenv/bin:$PATH"
+eval "$(goenv init -)"
 
 # nodenv
 export PATH="$HOME/.nodenv/bin:$PATH"
