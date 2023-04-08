@@ -1,8 +1,11 @@
 #!bin/bash
 
 brew install --cask adoptopenjdk
+brew install --cask rectangle
 
+brew install direnv
 brew install fish
+brew install fzf
 brew install git
 brew install go
 brew install graphviz
