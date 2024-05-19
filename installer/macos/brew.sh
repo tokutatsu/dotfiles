@@ -7,7 +7,7 @@ brew install direnv
 brew install fish
 brew install fzf
 brew install git
-brew install go
+brew install goenv
 brew install graphviz
 brew install mysql
 brew install mysql-client

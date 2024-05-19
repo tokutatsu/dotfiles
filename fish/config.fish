@@ -1,9 +1,10 @@
 # rbenv
 status --is-interactive; and source (rbenv init -|psub)
 
-# golang
-set -x GOPATH $HOME/go
-set -x PATH $PATH $GOPATH/bin
+# goenv
+set -x GOENV_ROOT $HOME/.goenv
+set -x PATH $GOENV_ROOT/bin $PATH
+eval (goenv init - | source)
 
 # pipenv
 set -x PIPENV_VENV_IN_PROJECT 1
