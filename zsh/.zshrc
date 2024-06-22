@@ -1,3 +1,8 @@
+if [[ $(uname) =~ ^Linux* ]]; then
+  # brew
+  eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
+fi
+
 # goenv
 export PATH="$HOME/.goenv/bin:$PATH"
 eval "$(goenv init -)"

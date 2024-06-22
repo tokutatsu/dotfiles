@@ -2,6 +2,7 @@
 
 rm ~/.bash_profile
 rm ~/.bashrc
+rm ~/.zshrc
 rm ~/.config/fish/config.fish
 rm -rf ~/.config/fish/functions
 rm ~/.tmux.conf

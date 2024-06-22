@@ -1,3 +1,8 @@
+if [ "$(expr substr $(uname -s) 1 5)" == 'Linux' ]; then
+  # brew
+  eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
+fi
+
 # default:cyan / root:red
 if [ $UID -eq 0 ]; then
     PS1="\[\033[31m\]\u@\h\[\033[00m\]:\[\033[01m\]\w\[\033[00m\]\\$ "
