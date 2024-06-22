@@ -1,4 +1,4 @@
 #!bin/bash
 
-sh ~/dotfiles/installer/package_manager/brew.sh
-sh ~/dotfiles/installer/macos/symbolic_linker.sh
+sh ~/dotfiles/setup/package_manager/brew.sh
+sh ~/dotfiles/setup/macos/symbolic_linker.sh

@@ -1,3 +1,3 @@
 #!bin/bash
 
-sh ~/dotfiles/installer/centos/symbolic_linker.sh
+sh ~/dotfiles/setup/centos/symbolic_linker.sh
