@@ -11,6 +11,10 @@ eval "$(goenv init -)"
 export PATH="$HOME/.nodenv/bin:$PATH"
 eval "$(nodenv init -)"
 
+# dotnet
+export PATH="$HOME/.dotnet:$PATH"
+export PATH="$HOME/.dotnet/tools:$PATH"
+
 # direnv
 eval "$(direnv hook zsh)"
 

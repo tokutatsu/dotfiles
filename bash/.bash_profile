@@ -10,6 +10,10 @@ eval "$(goenv init -)"
 export PATH="$HOME/.nodenv/bin:$PATH"
 eval "$(nodenv init -)"
 
+# dotnet
+export PATH="$HOME/.dotnet:$PATH"
+export PATH="$HOME/.dotnet/tools:$PATH"
+
 # pyenv paths
 export PYENV_ROOT="$HOME/.pyenv"
 export PATH="$PYENV_ROOT/bin:$PATH"
